@@ -1,0 +1,6 @@
+1, Alice, Cork, 2
+2, Bob, London, 5
+2, Saoirse, Donegal, 5
+3, Richard, Dubai, 15
+4, Evie, Perth, 8
+4, Donald, New York, 40
